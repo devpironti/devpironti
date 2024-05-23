@@ -39,10 +39,11 @@ Fora do mundo digital, gosto de fazer churrasco e reunir os amigos, além de pra
 
 
 <br>
-<center>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devpironti&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpironti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-</center>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devpironti&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=devpironti&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" style="display: inline-block;">
+</div>
+
 
 
 
